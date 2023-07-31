@@ -2,7 +2,9 @@
 
 <a href="https://www.amazon.co.jp/o/ASIN/4297136333/"><img src="misc/cover-small.png" width="200"></a>
 
-「[大規模言語モデル入門](https://www.amazon.co.jp/o/ASIN/4297136333/)」（技術評論社, 2023）に掲載しているコードを公開しています。
+「[大規模言語モデル入門](https://www.amazon.co.jp/o/ASIN/4297136333/)」（技術評論社, 2023）のリポジトリです。
+
+## コード
 
 コードはすべて Google Colaboratory で動作確認を行なっています。
 コードの中で利用したデータセットや作成したモデルは[Hugging Face Hub](https://huggingface.co/llm-book)にて公開しています。
@@ -36,6 +38,12 @@
 |                                                | 9.4.3 BPR の実装                                                                                                           | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter9/9-4-3-bpr-training.ipynb)                | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter9/9-4-3-bpr-training.ipynb)                |
 |                                                | 9.4.4 BPR によるパッセージの埋め込みの計算                                                                                 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter9/9-4-4-bpr-embedding.ipynb)               | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter9/9-4-4-bpr-embedding.ipynb)               |
 |                                                | 9.5 文書検索モデルと ChatGPT を組み合わせる                                                                                | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter9/9-5-quiz-chatgpt-plus-bpr.ipynb)         | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter9/9-5-quiz-chatgpt-plus-bpr.ipynb)         |
+
+## 正誤表
+
+本書の正誤表は以下のページで公開しています。
+
+[https://github.com/ghmagazine/llm-book/wiki/errata](https://github.com/ghmagazine/llm-book/wiki/errata)
 
 ## リンク
 
