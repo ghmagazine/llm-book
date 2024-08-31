@@ -1,8 +1,9 @@
 # 大規模言語モデル入門
 
-<a href="https://www.amazon.co.jp/o/ASIN/4297136333/"><img src="misc/cover-small.png" width="200"></a>
+<a href="https://gihyo.jp/book/2023/978-4-297-13633-8"><img src="misc/cover-small.png" width="200"></a>
+<a href="https://gihyo.jp/book/2024/978-4-297-14393-0"><img src="misc/cover-small2.png" width="200"></a>
 
-「[大規模言語モデル入門](https://www.amazon.co.jp/o/ASIN/4297136333/)」（技術評論社, 2023）のリポジトリです。
+「[大規模言語モデル入門](https://gihyo.jp/book/2023/978-4-297-13633-8)」（2023）と「[大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価](https://gihyo.jp/book/2024/978-4-297-14393-0)」（2024）のリポジトリです。
 
 ## コード
 
@@ -43,10 +44,13 @@
 
 本書の正誤表は以下のページで公開しています。
 
-[https://github.com/ghmagazine/llm-book/wiki/errata](https://github.com/ghmagazine/llm-book/wiki/errata)
+- [「大規模言語モデル入門」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata)
+- [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata2)
 
 ## リンク
 
 - [Hugging Face Hub](https://huggingface.co/llm-book)
-- [技術評論社のページ](https://gihyo.jp/book/2023/978-4-297-13633-8)
-- [Amazon.co.jp](https://www.amazon.co.jp/o/ASIN/4297136333/)
+- [「大規模言語モデル入門」の技術評論社のページ](https://gihyo.jp/book/2023/978-4-297-13633-8)
+- [「大規模言語モデル入門」のAmazon.co.jpのページ](https://www.amazon.co.jp/o/ASIN/4297136333/)
+- [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」の技術評論社のページ](https://gihyo.jp/book/2024/978-4-297-14393-0)
+- [「大規模言語モデル入門」のAmazon.co.jpのページ](https://www.amazon.co.jp/o/ASIN/4297143933)
