@@ -53,4 +53,4 @@
 - [「大規模言語モデル入門」の技術評論社のページ](https://gihyo.jp/book/2023/978-4-297-13633-8)
 - [「大規模言語モデル入門」のAmazon.co.jpのページ](https://www.amazon.co.jp/o/ASIN/4297136333/)
 - [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」の技術評論社のページ](https://gihyo.jp/book/2024/978-4-297-14393-0)
-- [「大規模言語モデル入門」のAmazon.co.jpのページ](https://www.amazon.co.jp/o/ASIN/4297143933)
+- [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」のAmazon.co.jpのページ](https://www.amazon.co.jp/o/ASIN/4297143933)
