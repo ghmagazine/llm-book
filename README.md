@@ -52,6 +52,7 @@
 | | 13.2 基本的な RAG のシステムの実装 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter13/13-2-rag-langchain.ipynb) | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter13/13-2-rag-langchain.ipynb) |
 | | 13.3.1 AI 王データセットを用いた指示チューニング | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter13/13-3-1-rag-instruct.ipynb) | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter13/13-3-1-rag-instruct.ipynb) |
 | | 13.3.2 指示チューニングしたモデルを LangChain で使う | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghmagazine/llm-book/blob/main/chapter13/13-3-2-rag-instruct-langchain.ipynb) | [Link](https://github.com/ghmagazine/llm-book/blob/main/chapter13/13-3-2-rag-instruct-langchain.ipynb) |
+| 第 14 章 分散並列学習 | 14.3 LLMの分散並列学習 | | [Link](https://github.com/ghmagazine/llm-book-Megatron-LM) |
 
 ## 正誤表
 
